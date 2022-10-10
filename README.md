@@ -1,5 +1,5 @@
 # Patient Analysis & Visualization
-An interactive dashboard to view patient data regarding belly button bacteria analysis.
+A simple interactive dashboard to view patient data regarding belly button bacteria analysis.
 
 ## Technologies
 - Javascript
